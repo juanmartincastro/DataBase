@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lavanda",
+    "precio": 350
+  },
+  {
+    "id": 2,
+    "nombre": "crassula ovata",
+    "precio": 850
+  },
+  {
+    "id": 3,
+    "nombre": "romero",
+    "precio": 230
+  }
+
+]
